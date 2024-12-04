@@ -1,7 +1,5 @@
 """https://adventofcode.com/2024/day/1"""
 
-from pprint import pprint
-
 # Part 1
 
 left_list = []
